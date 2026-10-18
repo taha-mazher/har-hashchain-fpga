@@ -1,0 +1,162 @@
+{
+ "lara2013": {
+  "authors": "Lara, O. D., and M. A. Labrador",
+  "year": 2013,
+  "title": "A Survey on Human Activity Recognition using Wearable Sensors",
+  "venue": "IEEE Communications Surveys & Tutorials",
+  "vip": "15(3): 1192-1209",
+  "doi": "10.1109/surv.2012.110112.00192"
+ },
+ "reyes2016": {
+  "authors": "Reyes-Ortiz, J. L., L. Oneto, A. Samà, X. Parra, and D. Anguita",
+  "year": 2016,
+  "title": "Transition-Aware Human Activity Recognition Using Smartphones",
+  "venue": "Neurocomputing",
+  "vip": "171: 754-767",
+  "doi": "10.1016/j.neucom.2015.07.085"
+ },
+ "reiss2012": {
+  "authors": "Reiss, A., and D. Stricker",
+  "year": 2012,
+  "title": "Introducing a New Benchmarked Dataset for Activity Monitoring",
+  "venue": "2012 16th International Symposium on Wearable Computers",
+  "vip": ": 108-109",
+  "doi": "10.1109/iswc.2012.13"
+ },
+ "gaikwad2019": {
+  "authors": "Gaikwad, N. B., V. Tiwari, A. Keskar, and N. C. Shivaprakash",
+  "year": 2019,
+  "title": "Efficient FPGA Implementation of Multilayer Perceptron for Real-Time Human Activity Classification",
+  "venue": "IEEE Access",
+  "vip": "7: 26696-26706",
+  "doi": "10.1109/access.2019.2900084"
+ },
+ "hussain2026": {
+  "authors": "Hussain, M. M. S., T. Mazher, M. A. Raheem, H. A. Aslam, K. Sasidhar, and A. Ahmed",
+  "year": 2026,
+  "title": "FPGA-Based Multilayer Perceptron For Fast Human Activity Detection",
+  "venue": "ASEAN Engineering Journal",
+  "vip": "16(2): 297-308",
+  "doi": "10.11113/aej.v16.25257"
+ },
+ "kuon2007": {
+  "authors": "Kuon, I., and J. Rose",
+  "year": 2007,
+  "title": "Measuring the Gap Between FPGAs and ASICs",
+  "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+  "vip": "26(2): 203-215",
+  "doi": "10.1109/tcad.2006.884574"
+ },
+ "haber1991": {
+  "authors": "Haber, S., and W. S. Stornetta",
+  "year": 1991,
+  "title": "How to Time-Stamp a Digital Document",
+  "venue": "Journal of Cryptology",
+  "vip": "3(2): 99-111",
+  "doi": "10.1007/BF00196791"
+ },
+ "schneier1999": {
+  "authors": "Schneier, B., and J. Kelsey",
+  "year": 1999,
+  "title": "Secure Audit Logs to Support Computer Forensics",
+  "venue": "ACM Transactions on Information and System Security",
+  "vip": "2(2): 159-176",
+  "doi": "10.1145/317087.317089"
+ },
+ "bellare2003": {
+  "authors": "Bellare, M., and B. Yee",
+  "year": 2003,
+  "title": "Forward-Security in Private-Key Cryptography",
+  "venue": "Topics in Cryptology (CT-RSA 2003), Lecture Notes in Computer Science",
+  "vip": "2612: 1-18",
+  "doi": "10.1007/3-540-36563-X_1"
+ },
+ "ma2009": {
+  "authors": "Ma, D., and G. Tsudik",
+  "year": 2009,
+  "title": "A New Approach to Secure Logging",
+  "venue": "ACM Transactions on Storage",
+  "vip": "5(1): 1-21",
+  "doi": "10.1145/1502777.1502779"
+ },
+ "bellare1996": {
+  "authors": "Bellare, M., R. Canetti, and H. Krawczyk",
+  "year": 1996,
+  "title": "Keying Hash Functions for Message Authentication",
+  "venue": "Advances in Cryptology (CRYPTO 96), Lecture Notes in Computer Science",
+  "vip": "1109: 1-15",
+  "doi": "10.1007/3-540-68697-5_1"
+ },
+ "christidis2016": {
+  "authors": "Christidis, K., and M. Devetsikiotis",
+  "year": 2016,
+  "title": "Blockchains and Smart Contracts for the Internet of Things",
+  "venue": "IEEE Access",
+  "vip": "4: 2292-2303",
+  "doi": "10.1109/ACCESS.2016.2566339"
+ },
+ "dorri2017": {
+  "authors": "Dorri, A., S. S. Kanhere, R. Jurdak, and P. Gauravaram",
+  "year": 2017,
+  "title": "Blockchain for IoT Security and Privacy: The Case Study of a Smart Home",
+  "venue": "2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)",
+  "vip": ": 618-623",
+  "doi": "10.1109/PERCOMW.2017.7917634"
+ },
+ "azaria2016": {
+  "authors": "Azaria, A., A. Ekblaw, T. Vieira, and A. Lippman",
+  "year": 2016,
+  "title": "MedRec: Using Blockchain for Medical Data Access and Permission Management",
+  "venue": "2016 2nd International Conference on Open and Big Data (OBD)",
+  "vip": ": 25-30",
+  "doi": "10.1109/OBD.2016.11"
+ },
+ "santos2024": {
+  "authors": "Santos, C. E. B., L. M. D. da Silva, M. F. Torquato, S. N. Silva, and M. A. C. Fernandes",
+  "year": 2024,
+  "title": "SHA-256 Hardware Proposal for IoT Devices in the Blockchain Context",
+  "venue": "Sensors",
+  "vip": "24(12): 3908",
+  "doi": "10.3390/s24123908"
+ },
+ "kieu2021": {
+  "authors": "Kieu-Do-Nguyen, B., T.-T. Hoang, C.-K. Pham, and C. Pham-Quoc",
+  "year": 2021,
+  "title": "A Power-efficient Implementation of SHA-256 Hash Function for Embedded Applications",
+  "venue": "2021 International Conference on Advanced Technologies for Communications (ATC)",
+  "vip": ": 39-44",
+  "doi": "10.1109/ATC52653.2021.9598264"
+ },
+ "kammoun2021": {
+  "authors": "Kammoun, M., M. Elleuchi, M. Abid, and A. M. Obeid",
+  "year": 2021,
+  "title": "HW/SW Architecture Exploration for an Efficient Implementation of the Secure Hash Algorithm SHA-256",
+  "venue": "Journal of Communications Software and Systems",
+  "vip": "17(2): 87-96",
+  "doi": "10.24138/jcomss-2021-0006"
+ },
+ "garcia2014": {
+  "authors": "García, R., I. Algredo-Badillo, M. Morales-Sandoval, C. Feregrino-Uribe, and R. Cumplido",
+  "year": 2014,
+  "title": "A Compact FPGA-Based Processor for the Secure Hash Algorithm SHA-256",
+  "venue": "Computers & Electrical Engineering",
+  "vip": "40(1): 194-202",
+  "doi": "10.1016/j.compeleceng.2013.11.014"
+ },
+ "wong2018": {
+  "authors": "Wong, M. M., V. Pudi, and A. Chattopadhyay",
+  "year": 2018,
+  "title": "Lightweight and High Performance SHA-256 using Architectural Folding and 4-2 Adder Compressor",
+  "venue": "2018 IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)",
+  "vip": ": 95-100",
+  "doi": "10.1109/VLSI-SoC.2018.8644825"
+ },
+ "wu2000": {
+  "authors": "Wu, Q., M. Pedram, and X. Wu",
+  "year": 2000,
+  "title": "Clock-Gating and Its Application to Low Power Design of Sequential Circuits",
+  "venue": "IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications",
+  "vip": "47(3): 415-420",
+  "doi": "10.1109/81.841927"
+ }
+}

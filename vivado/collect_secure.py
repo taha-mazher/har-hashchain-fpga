@@ -2,8 +2,8 @@
 Energy per window = average dynamic power (whole design, or one instance from the hierarchy) x simulated time / windows.
 The simulated time is the testbench's own pacing (it waits for each hash), so these are per-window energies for
 back-to-back windows. Idle = the same netlist held idle after reset (power_idle_mw.rpt); for gated builds the clock
-after the BUFGCE is declared stopped (see power_secure.tcl). Per deployed 2.56 s window, the dynamic energy is the
-active energy plus idle dynamic power x 2.56 s (the active part lasts microseconds). Static power is not included."""
+after the BUFGCE is declared stopped (see power_secure.tcl). Per deployed window (one every 1.28 s: 2.56 s windows, 50% overlap), the dynamic energy is the
+active energy plus idle dynamic power x 1.28 s (the active part lasts microseconds). Static power is not included."""
 import os
 import re
 
@@ -31,9 +31,9 @@ for tag in ('cascade_uci', 'sec_uci_lite_plain', 'sec_uci_lite_keyed', 'sec_uci_
                  'PASS' if 'RESULT: PASS' in log else 'FAIL'))
     ip = os.path.join(d, 'power_idle_mw.rpt')
     idle = float(grab(ip, r'\| Dynamic \(mW\)\s*\|\s*([\d.]+)')) if os.path.exists(ip) else None
-    rows[-1] += (idle, None if idle is None else rows[-1][7] / 1e6 + idle * 2.56)
+    rows[-1] += (idle, None if idle is None else rows[-1][7] / 1e6 + idle * 1.28)
 
-hdr = f"{'design':20s} {'LUTs':>5} {'FFs':>5} {'slices':>6} {'WNS ns':>7} {'total mW':>8} {'dyn mW':>7} {'dyn nJ/win':>10} {'hash nJ/win':>11} {'gate sim':>8} {'idle mW':>8} {'mJ/2.56s win':>12}"
+hdr = f"{'design':20s} {'LUTs':>5} {'FFs':>5} {'slices':>6} {'WNS ns':>7} {'total mW':>8} {'dyn mW':>7} {'dyn nJ/win':>10} {'hash nJ/win':>11} {'gate sim':>8} {'idle mW':>8} {'mJ per 1.28 s':>12}"
 out = [hdr] + [f'{r[0]:20s} {r[1]:>5} {r[2]:>5} {r[3]:>6} {r[4]:>7} {r[5]:>8} {r[6]:>7} {r[7]:>10.1f} {r[8]:>11.1f} {r[9]:>8} {'-' if r[10] is None else f'{r[10]:.3f}':>8} {'-' if r[11] is None else f'{r[11]:.3f}':>12}' for r in rows]
 print('\n'.join(out))
 with open(os.path.join(HERE, '..', 'out', 'secure_vivado_results.txt'), 'w') as f:

@@ -73,8 +73,8 @@ def compare():
 
 def energy_fig():
     sec = {l.split()[0]: l.split() for l in open(os.path.join(OUT, 'secure_vivado_results.txt')).read().splitlines()[1:]}
-    gyro_mj = 745e-6 * 1.8 * 2.56 * 1e3   # BMI160: 925 uA both sensors - 180 uA accel only, 1.8 V, one 2.56 s window
-    idle = lambda t: float(sec[t][10]) * 2.56 * 1e6   # idle dynamic mW x 2.56 s, in nJ
+    gyro_mj = 745e-6 * 1.8 * 1.28 * 1e3   # BMI160: 925 uA both - 180 uA accel only, 1.8 V, one hop (a window ends every 1.28 s)
+    idle = lambda t: float(sec[t][10]) * 1.28 * 1e6   # idle dynamic mW x 1.28 s, in nJ
     bars = [('Cascade inference (active)', float(sec['cascade_uci'][7]), '#2a78d6'),
             ('SHA-256 link (active)', float(sec['sec_uci_lite_plain'][8]), '#eb6834'),
             ('HMAC link (active)', float(sec['sec_uci_lite_keyed'][8]), '#eb6834'),
@@ -89,9 +89,9 @@ def energy_fig():
     ax.set_yticks(list(y), [b[0] for b in bars], fontsize=8)
     ax.invert_yaxis()
     for i, (_, v, _) in enumerate(bars):
-        ax.text(v * 1.3, i, f'{v / 1e6:.2f} mJ' if v > 1e5 else f'{v:.1f} nJ', va='center', fontsize=8, color='#333333')
+        ax.text(v * 1.3, i, f'{v / 1e6:.3g} mJ' if v > 1e4 else f'{v:.1f} nJ', va='center', fontsize=8, color='#333333')
     ax.set_xlim(1, 3e7)
-    ax.set_xlabel('Dynamic energy per 2.56 s window (nJ, log scale)', fontsize=8)
+    ax.set_xlabel('Dynamic energy per classification, one every 1.28 s (nJ, log scale)', fontsize=8)
     ax.tick_params(axis='x', labelsize=8)
     for s in ('top', 'right'):
         ax.spines[s].set_visible(False)

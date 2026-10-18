@@ -16,8 +16,8 @@
 //           the cascade or the hash is busy, or a one-cycle flag has to clear.
 // The chain and window number restart at reset (one recording). The hash is read 32 bits at a time
 // (hash_sel 0 = most significant word) so the design fits the package's pins.
-// ponytail: one record in flight; a window finishing while the previous hash runs is dropped. At 2.56 s per
-// window against ~3 us of hashing that cannot happen; add a one-entry queue if windows ever come back to back.
+// ponytail: one record in flight; a window finishing while the previous hash runs is dropped. At one window per 1.28 s
+// against ~7 us of hashing that cannot happen; add a one-entry queue if windows ever come back to back.
 module cascade_secure #(
     parameter N2 = 9, H2 = 8, FA = 12, FB = 12,
     parameter signed [32:0] TAU = 0,
