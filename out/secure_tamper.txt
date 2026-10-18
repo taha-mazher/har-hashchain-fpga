@@ -1,0 +1,7 @@
+Attack (UCI recording 1, 280 windows)                  plain  plain + anchor  keyed  keyed + anchor  forward-secure  forward-secure + anchor
+Change one class (window 100)                         caught at 100   caught at 100 caught at 100   caught at 100   caught at 100            caught at 100
+Delete one window (100)                               caught at 100   caught at 100 caught at 100   caught at 100   caught at 100            caught at 100
+Swap two windows (114, 115)                           caught at 114   caught at 114 caught at 114   caught at 114   caught at 114            caught at 114
+Drop the last 10 windows                              missed   caught at 269 missed   caught at 269          missed            caught at 269
+Change window 100, recompute all hashes (no key)      missed   caught at 279 caught at 0     caught at 0     caught at 0              caught at 0
+Device stolen at 200, key read, window 100 rewritten  missed   caught at 279 missed   caught at 279   caught at 100            caught at 100

@@ -1,0 +1,8 @@
+SHA-256 core                           FPGA                   slices  LUTs   FFs    MHz cycles   Mbps  source
+This work, standard (sha256_iter)      Artix-7 xc7a35t           273  1011  1033   83.9     66    651  measured, MHz = 1/(20 ns - slack)
+This work, low-area (sha256_lite)      Artix-7 xc7a35t           299  1058   431   66.1     65    520  measured, MHz = 1/(20 ns - slack)
+secworks (open source), same flow      Artix-7 xc7a35t           409  1430  1054   67.1     67    513  measured, MHz = 1/(20 ns - slack)
+Santos et al. 2024, 1 core             Virtex-6                 1933  6730   794  12.67     65    100  [Sensors 24:3908, Tables 1, 3]
+Kieu-Do-Nguyen et al. 2021             Artix-7 / Zynq-7000       327     -     - 141.84      -   1404  as reported in Santos Table 3
+Kammoun et al. 2021                    Zynq-7000 XC7Z020        1305     -     -    135      -   1063  as reported in Santos Table 3
+Garcia et al. 2014                     Virtex-5                  139     -     -  64.45      -    118  as reported in Santos Table 3

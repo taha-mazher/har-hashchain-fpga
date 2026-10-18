@@ -1,0 +1,13 @@
+﻿== sec_uci_lite_plain
+../out/cascade_uci.mem keyed=0: windows=5053 mismatches=0 hash_mismatches=0 accuracy=2846/2996 stage2=618 sensor_on=795 cycles stage1=86 stage2=211 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== sec_uci_lite_keyed
+../out/cascade_uci.mem keyed=1: windows=5053 mismatches=0 hash_mismatches=0 accuracy=2846/2996 stage2=618 sensor_on=795 cycles stage1=86 stage2=211 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== sec_uci_iter_plain
+../out/cascade_uci.mem keyed=0: windows=5053 mismatches=0 hash_mismatches=0 accuracy=2846/2996 stage2=618 sensor_on=795 cycles stage1=86 stage2=211 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== sec_uci_iter_keyed
+../out/cascade_uci.mem keyed=1: windows=5053 mismatches=0 hash_mismatches=0 accuracy=2846/2996 stage2=618 sensor_on=795 cycles stage1=86 stage2=211 hash_after_valid=135
+RESULT: PASS (bit-exact)
+ALL DONE

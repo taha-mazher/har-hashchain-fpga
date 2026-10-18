@@ -1,0 +1,10 @@
+design                LUTs   FFs slices  WNS ns total mW  dyn mW dyn nJ/win hash nJ/win gate sim  idle mW mJ/2.56s win
+cascade_uci            358   286    126   5.629   63.145   2.804        6.2         0.0     PASS        -            -
+sec_uci_lite_plain    1101  1006    376   5.127   68.570   8.223       29.3        18.8     PASS    0.906        2.319
+sec_uci_lite_keyed    1228  1010    384   4.948   70.680  10.330       50.5        38.0     PASS    0.925        2.368
+sec_uci_iter_plain    1143  1529    396   5.373   68.631   8.284       29.7        19.8     PASS        -            -
+sec_uci_iter_keyed    1261  1534    403   6.024   70.483  10.133       49.9        38.3     PASS        -            -
+sec_uci_lite_fs       1716  1532    534   4.976   74.764  14.409      127.5       105.2     PASS    1.315        3.367
+sec_uci_lite_plain_g  1101  1005    382   5.348   68.635   8.288       29.6        18.9     PASS    0.059        0.151
+sec_uci_lite_keyed_g  1235  1011    408   4.756   70.755  10.405       50.8        38.0     PASS    0.059        0.151
+sec_uci_lite_fs_g     1718  1531    545   4.781   74.864  14.509      128.3       106.5     PASS    0.059        0.151

@@ -1,0 +1,288 @@
+== cascade_pamap2_101 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_101.mem keyed=0: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_101.mem keyed=0: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_101.mem keyed=1: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_101.mem keyed=1: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_101.mem keyed=2: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_101.mem keyed=2: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_101.mem keyed=0: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_101.mem keyed=0: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_101.mem keyed=1: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_101.mem keyed=1: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_101.mem keyed=2: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_101 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_101.mem keyed=2: windows=2939 mismatches=0 hash_mismatches=0 accuracy=813/964 stage2=1366 sensor_on=1565 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_102.mem keyed=0: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_102.mem keyed=0: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_102.mem keyed=1: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_102.mem keyed=1: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_102.mem keyed=2: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_102.mem keyed=2: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_102.mem keyed=0: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_102.mem keyed=0: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_102.mem keyed=1: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_102.mem keyed=1: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_102.mem keyed=2: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_102 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_102.mem keyed=2: windows=3491 mismatches=0 hash_mismatches=0 accuracy=952/1049 stage2=1265 sensor_on=1544 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_103.mem keyed=0: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_103.mem keyed=0: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_103.mem keyed=1: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_103.mem keyed=1: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_103.mem keyed=2: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_103.mem keyed=2: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_103.mem keyed=0: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_103.mem keyed=0: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_103.mem keyed=1: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_103.mem keyed=1: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_103.mem keyed=2: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_103 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_103.mem keyed=2: windows=1974 mismatches=0 hash_mismatches=0 accuracy=875/966 stage2=1001 sensor_on=1117 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_104.mem keyed=0: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_104.mem keyed=0: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_104.mem keyed=1: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_104.mem keyed=1: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_104.mem keyed=2: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_104.mem keyed=2: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_104.mem keyed=0: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_104.mem keyed=0: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_104.mem keyed=1: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_104.mem keyed=1: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_104.mem keyed=2: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_104 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_104.mem keyed=2: windows=2573 mismatches=0 hash_mismatches=0 accuracy=987/1046 stage2=1091 sensor_on=1275 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_105.mem keyed=0: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_105.mem keyed=0: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_105.mem keyed=1: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_105.mem keyed=1: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_105.mem keyed=2: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_105.mem keyed=2: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_105.mem keyed=0: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_105.mem keyed=0: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_105.mem keyed=1: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_105.mem keyed=1: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_105.mem keyed=2: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_105 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_105.mem keyed=2: windows=2927 mismatches=0 hash_mismatches=0 accuracy=835/1014 stage2=1260 sensor_on=1530 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_106.mem keyed=0: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_106.mem keyed=0: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_106.mem keyed=1: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_106.mem keyed=1: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_106.mem keyed=2: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_106.mem keyed=2: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_106.mem keyed=0: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_106.mem keyed=0: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_106.mem keyed=1: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_106.mem keyed=1: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_106.mem keyed=2: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_106 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_106.mem keyed=2: windows=2825 mismatches=0 hash_mismatches=0 accuracy=817/929 stage2=924 sensor_on=1308 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_107.mem keyed=0: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_107.mem keyed=0: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_107.mem keyed=1: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_107.mem keyed=1: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_107.mem keyed=2: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_107.mem keyed=2: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_107.mem keyed=0: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_107.mem keyed=0: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_107.mem keyed=1: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_107.mem keyed=1: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_107.mem keyed=2: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_107 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_107.mem keyed=2: windows=2449 mismatches=0 hash_mismatches=0 accuracy=934/974 stage2=789 sensor_on=972 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=0 gate=0
+../out/cascade_pamap2_108.mem keyed=0: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=0 gate=1
+../out/cascade_pamap2_108.mem keyed=0: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=67
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=1 gate=0
+../out/cascade_pamap2_108.mem keyed=1: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=1 gate=1
+../out/cascade_pamap2_108.mem keyed=1: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=133
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=2 gate=0
+../out/cascade_pamap2_108.mem keyed=2: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=1 keyed=2 gate=1
+../out/cascade_pamap2_108.mem keyed=2: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=331
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=0 gate=0
+../out/cascade_pamap2_108.mem keyed=0: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=0 gate=1
+../out/cascade_pamap2_108.mem keyed=0: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=68
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=1 gate=0
+../out/cascade_pamap2_108.mem keyed=1: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=1 gate=1
+../out/cascade_pamap2_108.mem keyed=1: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=135
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=2 gate=0
+../out/cascade_pamap2_108.mem keyed=2: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
+== cascade_pamap2_108 lite=0 keyed=2 gate=1
+../out/cascade_pamap2_108.mem keyed=2: windows=3186 mismatches=0 hash_mismatches=0 accuracy=856/963 stage2=1245 sensor_on=1572 cycles stage1=86 stage2=411 hash_after_valid=336
+RESULT: PASS (bit-exact)
